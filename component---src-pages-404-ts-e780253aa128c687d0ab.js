@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfinatech_augmented_roi_gatsby=self.webpackChunkfinatech_augmented_roi_gatsby||[]).push([[628],{7824:function(e,t,n){n.r(t);t.default=function(){return"Not Found"}}}]);
+//# sourceMappingURL=component---src-pages-404-ts-e780253aa128c687d0ab.js.map

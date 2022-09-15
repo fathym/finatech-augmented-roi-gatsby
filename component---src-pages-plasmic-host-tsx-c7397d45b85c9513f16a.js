@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfinatech_augmented_roi_gatsby=self.webpackChunkfinatech_augmented_roi_gatsby||[]).push([[525],{1203:function(t,a,e){e.r(a),e.d(a,{default:function(){return c}});var n=e(7294),u=e(9248),s=e(1467);function c(t){var a=t.data.plasmicOptions;return(0,s.g)(a),n.createElement(u.PlasmicCanvasHost,null)}}}]);
+//# sourceMappingURL=component---src-pages-plasmic-host-tsx-c7397d45b85c9513f16a.js.map

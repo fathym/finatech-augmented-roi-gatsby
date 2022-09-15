@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-404-ts-e780253aa128c687d0ab.js","mappings":"0JAGA,UAHiB,WACf,MAAO,WADT,C","sources":["webpack://finatech-augmented-roi-gatsby/./src/pages/404.ts"],"sourcesContent":["const NotFound = () => {\n  return \"Not Found\";\n};\nexport default NotFound;"],"names":[],"sourceRoot":""}
