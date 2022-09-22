@@ -1,4 +1,4 @@
-name: GitHub Artifacts - Release
+name: kacloomis/gatsby-starter-blog
 
 on:
   push:
